@@ -89,8 +89,9 @@
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 .information .card img {
-    width: 100%;
-    height: auto;
+    
+    height: 600px;
+    object-fit: contain;
    
 }
 .text-footer {
